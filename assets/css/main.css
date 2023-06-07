@@ -1899,7 +1899,7 @@ button,
     -webkit-transform: scaleX(-1);
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
-    color: #7f888f;
+    color: #dfdfdf;
     content: '\f002';
     cursor: default;
     display: block;
@@ -1928,10 +1928,10 @@ button,
   -webkit-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   -ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
-  background-color: #bcdeff;
-  font-size: 0.9em;
+  background-color: #0a3863;
+  font-size: 1.2em;
   position: relative;
-  width: 26em; }
+  width: 2em; }
   #sidebar h2 {
     font-size: 1.38889em; }
   #sidebar > .inner {
@@ -1949,7 +1949,7 @@ button,
         margin-bottom: 0;
         padding-bottom: 0; }
     #sidebar > .inner > .alt {
-      background-color: #bcdeff;
+      background-color: #0a3863;
       border-bottom: 0;
       margin: -2.22222em 0 4.44444em -2.22222em;
       padding: 2.22222em;
@@ -2187,7 +2187,7 @@ button,
 
 /* Footer */
 #footer .copyright {
-  color: #9fa3a63f;
+  color: #e0dbdb;
   font-size: 0.9em; }
   #footer .copyright a {
     color: inherit; }
@@ -2198,10 +2198,10 @@ button,
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #232629;
+  color: #dee5ec;
   font-family: "Roboto Slab", serif;
-  font-weight: 400;
-  letter-spacing: 0.075em;
+  font-weight: 450;
+  letter-spacing: .075em;
   list-style: none;
   margin-bottom: 0;
   padding: 0;
