@@ -1071,7 +1071,7 @@ select {
     color: #ff4400b9;
     background: #202945; }
   select:focus::-ms-value {
-    background-color: #202945; }
+    background-color: transparent; }
   select::-ms-expand {
     display: none; }
 
@@ -1931,7 +1931,7 @@ button,
   background-color: #0a3863;
   font-size: 1.2em;
   position: relative;
-  width: 2em; }
+  width: 26em; }
   #sidebar h2 {
     font-size: 1.38889em; }
   #sidebar > .inner {
@@ -2201,7 +2201,7 @@ button,
   color: #dee5ec;
   font-family: "Roboto Slab", serif;
   font-weight: 450;
-  letter-spacing: .075em;
+  letter-spacing: 0.075em;
   list-style: none;
   margin-bottom: 0;
   padding: 0;
