@@ -93,8 +93,8 @@ body {
 body, input, select, textarea {
   color: #fdf9f7e5;
   font-family: "Open Sans", sans-serif;
-  font-size: 15pt;
-  font-weight: 600;
+  font-size: 10.5pt;
+  font-weight: 400;
   line-height: 2; }
   @media screen and (max-width: 1680px) {
     body, input, select, textarea {
